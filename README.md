@@ -1,1 +1,2 @@
-#This is a Modern Javascript Calculator
+The JavaScript Calculator is implemented using modern JavaScript features.
+The script.js file encapsulates the Calculator class and its associated methods. Utilizing ES6 classes enhances code organization and synchronizes JavaScript functionality with the user interface. CSS Grid and Flexbox are employed for layout design. The implementation ensures a clean handling of user input, and debugging complex edge cases is facilitated through a systematic approach.
